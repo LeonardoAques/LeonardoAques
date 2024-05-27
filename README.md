@@ -5,7 +5,7 @@ Profissional experiente em educação busca transição para desenvolvimento de 
   <a href="mailto:aques.leo@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/leonardo-pereira-aques-99a9bb1b7" target="_blank">
+  <a href="https://www.linkedin.com/in/leonardo-pereira-aques-99a9bb1b7">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
