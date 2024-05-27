@@ -23,14 +23,16 @@ Sou um educador experiente que está buscando uma mudança para o desenvolviment
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40" style="max-width: 100%;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40" style="max-width: 100%;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40" style="max-width: 100%;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40" style="max-width: 100%;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40" style="max-width: 100%;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="40" height="40" style="max-width: 100%;">
-  <img src="" title="Python" alt="Python" width="40" height="40" style="max-width: 100%;">
-  <img src="" title="GitHub" alt="GitHub" width="40" height="40" style="max-width: 100%;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40" style="max-width: 100%;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40" style="max-width: 100%;">
   <img src="" title="PowerBI" alt="PowerBI" width="40" height="40" style="max-width: 100%;">
   <img src="" title="Power Automate" alt="Power Automate" width="40" height="40" style="max-width: 100%;">
   <img src="" title="UiPath" alt="UiPath" width="40" height="40" style="max-width: 100%;">
-  
+  <img src="" title="Microsoft Office" alt="Microsoft Office" width="40" height="40" style="max-width: 100%;">
+  <img src="" title="Google Workspace" alt="Google Workspace" width="40" height="40" style="max-width: 100%;">
 </div>
 
 
