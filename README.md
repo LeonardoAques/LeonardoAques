@@ -10,6 +10,9 @@ Profissional experiente em educação busca transição para desenvolvimento de 
   </a>
 </p>
 
+### Sobre mim:
+- Iniciei minha trajetória profissional como professor do ensino fundamental, porém, ao longo do caminho, percebi que minha verdadeira paixão residia na programação. Agora, enquanto estudo Análise e Desenvolvimento de Sistemas, estou em busca de oportunidades para expandir minha experiência dentro desse campo promissor.
+- Atualmente, concentro minha experiência no desenvolvimento front-end e estou constantemente aprimorando minhas habilidades. Minhas competências principais são: HTML, CSS, JavaScript, design UX/UI, Git, MySQL, Python e automação utilizando o Power Automate.
 
 
 
