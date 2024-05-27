@@ -1,8 +1,6 @@
 ## Olá, sou Leonardo 👋
 
-<p class="experiencia-texto" style="color: red;">
-  Profissional experiente em educação busca transição para desenvolvimento de software, motivado pelo interesse em tecnologia. Comprometido com aprendizado contínuo e comunicação eficaz, busca aplicar habilidades educacionais neste novo ambiente.
-</p>
+Profissional experiente em educação busca transição para desenvolvimento de software, motivado pelo interesse em tecnologia. Comprometido com aprendizado contínuo e comunicação eficaz, busca aplicar habilidades educacionais neste novo ambiente.
 
 
 
