@@ -30,6 +30,7 @@
 .formacao .subtitulo {
   color: #000000;
   max-width: 5ch;
+  text-shadow: black 2px 1px 5px;
 }
 
 .formacao-texto {
