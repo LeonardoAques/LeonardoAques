@@ -10,7 +10,7 @@ Sou um educador experiente que está buscando uma mudança para o desenvolviment
   </a>
 </p>
 
-<div>Meu currículo: https://leonardoaques.github.io/LeonardoAques/</div>
+<div align="center">Meu currículo: https://leonardoaques.github.io/LeonardoAques/</div>
 
 ---
 
