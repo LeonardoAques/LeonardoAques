@@ -10,6 +10,7 @@
 
 .experiencia .subtitulo {
   color: #c9c9c9;
+  text-shadow: black 2px 1px 5px;
 }
 
 .experiencia-texto {
@@ -26,7 +27,6 @@
 
 .empresa {
   display: grid;
-  /* grid-template-columns: 1fr 1fr; */
   gap: 10px 20px;
   padding: 20px;
   background: #f0f0f0;
@@ -67,21 +67,6 @@
   color: #525252;
   line-height: 1.4;
 }
-
-/* .empresa-habilidades {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 10px;
-  align-content: start;
-} */
-
-/* .empresa-habilidades li {
-  font-size: 0.875rem;
-  line-height: 1.4;
-  background: white;
-  border-radius: 4px;
-  padding: 5px 10px;
-} */
 
 @media (max-width: 800px) {
   .experiencia {
