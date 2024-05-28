@@ -25,17 +25,21 @@
   line-height: 1.1;
   color: white;
   margin-bottom: 30px;
-  
 }
 
 .footer-contato li a {
   color: white;
+  text-decoration: none;
+}
+
+.footer-contato li a:hover {
+  text-decoration: underline;
 }
 
 .footer-copy {
   grid-column: 1 / -1;
   font-size: 1.125rem;
-  color: #8F8F8F;
+  color: #8f8f8f;
 }
 
 @media (max-width: 800px) {
