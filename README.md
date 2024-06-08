@@ -16,7 +16,11 @@ Sou um educador experiente que está buscando uma mudança para o desenvolviment
 
 ### 🔓 Sobre mim:
 - Iniciei minha trajetória profissional como professor do ensino fundamental, porém, ao longo do caminho, percebi que minha verdadeira paixão residia na programação. Agora, enquanto estudo Análise e Desenvolvimento de Sistemas, estou em busca de oportunidades para expandir minha experiência dentro desse campo promissor.
+<<<<<<< HEAD
 - Atualmente, concentro minha experiência no desenvolvimento front-end e back-end, e estou constantemente aprimorando minhas habilidades. Minhas competências principais são: HTML, CSS, JavaScript, Java, design UX/UI, Git, MySQL, Python e automação utilizando o Power Automate.
+=======
+- Atualmente, concentro minha experiência no desenvolvimento front-end e back-end, e estou constantemente aprimorando minhas habilidades. Minhas competências principais são: HTML, CSS, JavaScript, design UX/UI, Git, MySQL, Python e automação utilizando o Power Automate.
+>>>>>>> bf484e0011852e97fcecb4d4924f84fe6245c354
 
 ---
 
