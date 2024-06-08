@@ -16,7 +16,7 @@ Sou um educador experiente que está buscando uma mudança para o desenvolviment
 
 ### 🔓 Sobre mim:
 - Iniciei minha trajetória profissional como professor do ensino fundamental, porém, ao longo do caminho, percebi que minha verdadeira paixão residia na programação. Agora, enquanto estudo Análise e Desenvolvimento de Sistemas, estou em busca de oportunidades para expandir minha experiência dentro desse campo promissor.
-- Atualmente, concentro minha experiência no desenvolvimento front-end e back-end, e estou constantemente aprimorando minhas habilidades. Minhas competências principais são: HTML, CSS, JavaScript, design UX/UI, Git, MySQL, Python e automação utilizando o Power Automate.
+- Atualmente, concentro minha experiência no desenvolvimento front-end e back-end, e estou constantemente aprimorando minhas habilidades. Minhas competências principais são: HTML, CSS, JavaScript, Java, design UX/UI, Git, MySQL, Python e automação utilizando o Power Automate.
 
 ---
 
@@ -25,6 +25,7 @@ Sou um educador experiente que está buscando uma mudança para o desenvolviment
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40" style="max-width: 100%;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40" style="max-width: 100%;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40" style="max-width: 100%;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40" style="max-width: 100%;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40" style="max-width: 100%;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40" style="max-width: 100%;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="40" height="40" style="max-width: 100%;">
